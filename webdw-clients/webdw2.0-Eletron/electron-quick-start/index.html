@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World!</title>
+</head>
+
+
+<body>
+    <h1>Hello World!</h1>
+    We are using Node.js <span id="node-version"></span>,
+    Chromium <span id="chrome-version"></span>,
+    and Electron <span id="electron-version"></span>.
+
+    <p>加载网络资源：</p>
+    <button id="load">Load Test</button>
+    <button id="setdw1">Set DW1</button>    
+    <button id="setdw2">Set DW2</button>    
+    <button id="setdw3">Set DW3</button>    
+    <button id="setdw4">Set DW4</button>
+    <textarea id="text" style="width: 100%;height: 50px;background: #d9e8f0">
+    </textarea>
+
+    <div id="Picture1" name="Picture1"
+        style="position: absolute; left: 10px; top: 270px; height: 360px; width: 1000px; overflow: auto;
+        border:5px solid red">
+        <div id="Picture2" name="Picture2"
+            style="height: 250px; width: 1000px; overflow: auto"></div>
+    </div>
+
+    <!-- You can also require other files to run in this process -->
+    <script src="./renderer.js"></script>
+
+
+</body>
+
+
+
+</html>
