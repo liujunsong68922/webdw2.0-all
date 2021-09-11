@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainUI"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:layout_editor_absoluteY="56dp"
+    tools:showIn="@layout/activity_main">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="34dp"
+        android:layout_x="10dp"
+        android:layout_y="6dp"
+        android:text="sayhello"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="34dp"
+        android:layout_x="100dp"
+        android:layout_y="6dp"
+        android:text="set dw1"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="398dp"
+        android:layout_height="39dp"
+        android:layout_x="0dp"
+        android:layout_y="44dp"
+        android:background="#4A558A"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:textSize="12sp" />
+
+</AbsoluteLayout>
