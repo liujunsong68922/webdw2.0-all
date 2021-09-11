@@ -1,0 +1,2 @@
+serviceClass: com.webdw.gwt.client.GreetingService
+path: 798747F4F789FDE0EE975B4CE5D83072.gwt.rpc
