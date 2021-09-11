@@ -1,0 +1,12 @@
+C:\Users\liujunsong\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\liujunsong\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\liujunsong\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\liujunsong\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\liujunsong\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\liujunsong\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\liujunsong\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormMain.resources
+C:\Users\liujunsong\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\liujunsong\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WebDW_VBNET.vbproj.GenerateResource.Cache
+C:\Users\liujunsong\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\liujunsong\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\liujunsong\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
