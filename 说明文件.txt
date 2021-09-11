@@ -1,3 +1,8 @@
 目录说明：
 
 webdw: 这个目录下是一个Java编写的webdw服务器项目，打包发布为webdw.war包进行发布。
+默认本地的访问路径是 http://localhost/webdw/
+下面的所有客户端都是基于这个路径来进行访问的。
+
+webdw-clients: 这是一个总目录
+-------> webdw-vb 这个是使用Visual Basic编写的一个客户端，通过ajax方式请求后台数据，读取一个数据窗口检索出来的数据并进行绘图显示。
